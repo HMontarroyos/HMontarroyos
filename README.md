@@ -1,13 +1,12 @@
-<p align="center">
-<img width="620" alt="Banner Github" src="https://user-images.githubusercontent.com/60220406/104141188-41415d00-5394-11eb-89e1-39c768e036c8.png">
-</p>
-
 ### Hello world 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HMontarroyos)](https://github.com/HMontarroyos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/hebertmontarroyos-developer/)](https://www.linkedin.com/in/hebertmontarroyos-developer/)
 
-<h3 align="center"> Muito Prazer me Chamo Hebert Montarroyos </h3>
+<p align="center">
+<img width="620" alt="Banner Github" src="https://user-images.githubusercontent.com/60220406/104141188-41415d00-5394-11eb-89e1-39c768e036c8.png">
+<h3> Muito Prazer me Chamo Hebert Montarroyos </h3>
+</p>
 
 - 💻  Apaixonado por Tecnologia, Sou Formado em **Analise de Sistemas** e Atualmente Curso uma Segunda Graduação em **Sistemas para Internet** e estou fazendo uma pós em **Engenharia de Software**.
 - 💜  Trabalho Atualmente como Desenvolvedor Front-End onde utilizo de **HTML5, CSS3 e JavaScript e diversos Frameworks e Bibliotecas**.
