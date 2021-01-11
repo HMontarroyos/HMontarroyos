@@ -1,3 +1,4 @@
+<p align="center">
 <img width="620" alt="Banner Github" src="https://user-images.githubusercontent.com/60220406/104141188-41415d00-5394-11eb-89e1-39c768e036c8.png">
 
 ### Hello world 👋
@@ -30,5 +31,7 @@
 ![HMontarroyos github stats](https://github-readme-stats.vercel.app/api?username=HMontarroyos&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HMontarroyos&layout=compact&theme=dark)](https://github.com/HMontarroyos/github-readme-stats)
+
+</p>
 
 ## 🚀 Let's code! 🚀
