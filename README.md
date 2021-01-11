@@ -21,3 +21,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+
+![HMontarroyos github stats](https://github-readme-stats.vercel.app/api?username=HMontarroyos&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HMontarroyos&layout=compact&theme=dark)](https://github.com/HMontarroyos/github-readme-stats)
