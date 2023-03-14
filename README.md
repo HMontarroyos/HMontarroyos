@@ -1,4 +1,4 @@
-### Hello world 👋
+## Hello world 👋
 
 [![](https://visitcount.itsvg.in/api?id=HMontarroyos&icon=2&color=12)](https://visitcount.itsvg.in)
 
@@ -20,7 +20,7 @@
   🚀 Tenho me dedicado a aprofundar meus estudos para o <strong>desenvolvimento web</strong> em especial a stack <strong> MERN</strong>.<br>
 </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HMontarroyos)](https://github.com/HMontarroyos)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hebert.montarroyos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h_montarroyos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hebertmontarroyos-developer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hebertmontarroyos) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hebert-Montarroyos) 
 
@@ -32,10 +32,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HMontarroyos&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HMontarroyos&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HMontarroyos&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-  ## 💰 You can help me by Donating
+ # 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hebertmontarroyos@hotmail.com) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hebertmontarroyos@hotmail.com) 
 
  
