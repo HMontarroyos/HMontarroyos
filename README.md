@@ -1,7 +1,20 @@
 ### Hello world 👋
 
 # 💫 About Me:
-💻 Apaixonado por Tecnologia, sou formado em Análise de Sistemas e Sistemas para Internet, além de ter concluído uma pós-graduação em Engenharia de Software.<br>💜 Atualmente trabalho como Analista de Sistemas, onde tenho aplicado minhas habilidades técnicas e de resolução de problemas para criar soluções eficientes e eficazes para as necessidades dos nossos clientes.<br>🚀 Tenho me dedicado a aprofundar meus estudos para o desenvolvimento web em especial a stack MERN.<br><br>
+
+<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47o81oxghdo453phfiw7sct2h9kde918evyokp69u7&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+
+<p align="left">
+  💻 Apaixonado por Tecnologia, sou formado em <strong>Análise de Sistemas</strong> e <strong>Sistemas para Internet</strong>, além de ter concluído a pós-graduação    em <strong>Engenharia de Software</strong>.<br>
+</p>
+
+<p align="left">
+  💼 Atualmente trabalho como <strong> Analista de Sistemas</strong>, onde tenho aplicado minhas habilidades técnicas e de resolução de problemas para criar soluções eficientes e eficazes para as necessidades dos nossos clientes.<br>
+</p>
+
+<p align="left">
+  🚀 Tenho me dedicado a aprofundar meus estudos para o <strong>desenvolvimento web</strong> em especial a stack <strong> MERN</strong>.<br>
+</p>
 
 ## 🌐 Socials:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HMontarroyos)](https://github.com/HMontarroyos)
