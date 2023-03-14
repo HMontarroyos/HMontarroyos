@@ -4,11 +4,8 @@
 
 ## 💫 About Me:
 
-<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
-<br>
-<br>
-<br>
 
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 
 <p align="left">
   💻 Apaixonado por Tecnologia, sou formado em <strong>Análise de Sistemas</strong> e <strong>Sistemas para Internet</strong>, além de ter concluído a pós-graduação    em <strong>Engenharia de Software</strong>.<br>
