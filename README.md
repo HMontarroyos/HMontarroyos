@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<img src="https://media1.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif?cid=ecf05e47sve83gyd8yg2d38dqys709j95hz5vths98ljf1k8&rid=giphy.gif&ct=g" style="border-radius: 50%; margin-right: 20px; margin-left: 20px;" min-width="200px" max-width="200px" width="200px" align="right" alt="code">
+<img src="https://media1.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif?cid=ecf05e47sve83gyd8yg2d38dqys709j95hz5vths98ljf1k8&rid=giphy.gif&ct=g" style="border-radius: 50%; margin-right: 20px; margin-left: 20px;" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
 
 
 
