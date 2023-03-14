@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 
-<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47o81oxghdo453phfiw7sct2h9kde918evyokp69u7&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47o81oxghdo453phfiw7sct2h9kde918evyokp69u7&rid=giphy.gif&ct=g" style="border-radius: 50%; margin-right: 20px; margin-left: 20px;" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+
+
 
 <p align="left">
   💻 Apaixonado por Tecnologia, sou formado em <strong>Análise de Sistemas</strong> e <strong>Sistemas para Internet</strong>, além de ter concluído a pós-graduação    em <strong>Engenharia de Software</strong>.<br>
