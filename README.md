@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47o81oxghdo453phfiw7sct2h9kde918evyokp69u7&rid=giphy.gif&ct=g" style="border-radius: 50%; margin-right: 20px; margin-left: 20px;" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+<img src="https://media1.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif?cid=ecf05e47sve83gyd8yg2d38dqys709j95hz5vths98ljf1k8&rid=giphy.gif&ct=g" style="border-radius: 50%; margin-right: 20px; margin-left: 20px;" min-width="200px" max-width="200px" width="200px" align="right" alt="code">
 
 
 
@@ -19,7 +19,6 @@
 </p>
 
 ## 🌐 Socials:
-[![HMontarroyos]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/HMontarroyos)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HMontarroyos)](https://github.com/HMontarroyos)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hebert.montarroyos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h_montarroyos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hebertmontarroyos-developer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hebertmontarroyos) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hebert-Montarroyos) 
 
