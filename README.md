@@ -22,8 +22,8 @@
 ## 🌐 Socials:
 [![Website Badge](https://img.shields.io/badge/Website-%20-dark)](https://hebertmontarroyos.com.br/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HMontarroyos)](https://github.com/HMontarroyos)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hebert.montarroyos)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h_montarroyos) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hmontarroyosdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hmontarroyosdev/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hebertmontarroyos-developer) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hebertmontarroyos) 
 [![Dev.to](https://img.shields.io/badge/Dev-to-12100E?logo=medium&logoColor=white)](https://dev.to/hmontarroyos)
